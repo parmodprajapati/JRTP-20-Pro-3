@@ -1,0 +1,11 @@
+Hi {firstName} {lastName},
+<br>
+Thank you for registration, your registration almost completed.
+<br>
+Temp password: {tempPass}
+<br>
+Please click <a href="http://localhost:8080/unlock-account?email={emailId}"> 
+here to unlock account
+<br>
+
+Thanks.

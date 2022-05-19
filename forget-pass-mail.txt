@@ -1,0 +1,8 @@
+Hi {firstName} {lastName},
+<br>
+Please find your password .
+<br>
+Temp password: {tempPass}
+<br>
+
+Thanks.
